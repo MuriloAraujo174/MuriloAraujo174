@@ -1,4 +1,4 @@
-### olá! Sou Murilo Araujo 👋
+### olá! Eu Sou o Murilo Araujo 👋
 
 ##
 <div align="center">
