@@ -9,6 +9,8 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MuriloAraujo174&bg_color=000000&color=00fbff&line=00ffb3&point=1800d1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![Snake animation](https://github.com/MuriloAraujo174/MuriloAraujo174/blob/output/github-contribution-grid-snake.svg)
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MuriloAraujo174&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
