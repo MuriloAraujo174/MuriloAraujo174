@@ -27,6 +27,11 @@
 
 ##
 
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/1312463858757144588/1312463883759386624/0aaab6c8-31ab-4efa-a1fd-374b4d70bd92_2.webp?ex=674c96be&is=674b453e&hm=077568cf03a2cdbf44733f070253f220c0edba4412d0ee15631e8fd7d0bf9b31&" style="border-radius: 30px, width: 30px, heigth: 30px" target="_blank">
+
+</div>
+
 <div align="center"> 
 <a href="https://www.instagram.com/murilo_gomes027/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.youtube.com/channel/UC7nqUCJkaaDn5j1eyNKZDgg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
