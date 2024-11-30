@@ -13,6 +13,14 @@
 
 ##
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muriloAraujo174/muriloAraujo174/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muriloAraujo174/muriloAraujo174/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muriloAraujo174/muriloAraujo174/output/github-contribution-grid-snake.svg">
+</picture>
+
+##
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MuriloAraujo174&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
