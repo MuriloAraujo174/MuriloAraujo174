@@ -28,7 +28,7 @@
 ##
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1312463858757144588/1312463883759386624/0aaab6c8-31ab-4efa-a1fd-374b4d70bd92_2.webp?ex=67702f3e&is=676eddbe&hm=45b182218115e4f39081c5c80035d3bdd3f33209920e1243155aacbc9fdcdc9e&" style="border-radius: 30px, width: 30px, heigth: 30px" target="_blank">
+  <img src="https://cdn.discordapp.com/attachments/1312463858757144588/1312463883759386624/0aaab6c8-31ab-4efa-a1fd-374b4d70bd92_2.webp?ex=6787ea3e&is=678698be&hm=84248f28276375bb4879eb0c4ed0a84e5ebdde7ce8650f26e15941b34564fc45&" style="border-radius: 30px, width: 30px, heigth: 30px" target="_blank">
 
 </div>
 
